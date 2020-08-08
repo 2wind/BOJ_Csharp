@@ -1,0 +1,13 @@
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.exe
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.deps.json
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.runtimeconfig.json
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.runtimeconfig.dev.json
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.dll
+C:\Users\yongwook\Desktop\BOJ\1018\bin\Debug\netcoreapp3.1\1018.pdb
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.csprojAssemblyReference.cache
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.AssemblyInfoInputs.cache
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.AssemblyInfo.cs
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.csproj.CoreCompileInputs.cache
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.dll
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.pdb
+C:\Users\yongwook\Desktop\BOJ\1018\obj\Debug\netcoreapp3.1\1018.genruntimeconfig.cache
